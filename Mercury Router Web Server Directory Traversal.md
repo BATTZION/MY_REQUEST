@@ -35,4 +35,5 @@ reporter: Dongxiang Ke and Lewei Qu
 
 ## References
 https://www.mercusys.com/en/
+
 https://www.mercurycom.com.cn/product-521-1.html
